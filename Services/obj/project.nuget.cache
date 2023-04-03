@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "moMkFrCgW91Yf6wRJWsfMI1kXW0QzDG7QAAJ+hGF2RDPPwY1UuMq4fae2l4h70Igjq2FJx6qmvsiKFgso6cWnw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\giregu\\Desktop\\resolucaoExercicio\\Api\\Services\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\giregu\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\giregu\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\giregu\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
